@@ -7,7 +7,7 @@ export default function Layout({ children }) {
   return (
     <>
       <Head>
-        <title>DLC | Staking</title>
+        <title>DC Testnet Faucet</title>
 
         <link
           rel="apple-touch-icon"
@@ -46,10 +46,7 @@ export default function Layout({ children }) {
           content="A Voice-Automated, Proof-of-Authority, Permissionless Blockchain."
           property="twitter:description"
         />
-        <meta
-          content="/banner.png"
-          property="twitter:image"
-        />
+        <meta content="/banner.png" property="twitter:image" />
         <meta property="og:type" content="website" />
         <meta content="summary_large_image" name="twitter:card" />
         <meta content="width=device-width, initial-scale=1" name="viewport" />
