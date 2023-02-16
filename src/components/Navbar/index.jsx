@@ -7,7 +7,13 @@ export default function Navbar() {
     <div className={styles.container}>
       <div className={styles.content}>
         <div className={styles.nav__left}>
-          <img className="w-32" src={DLCLogo.src} alt="logo" />
+          <a
+            href="https://deeplearningchain.io"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <img className="w-32" src={DLCLogo.src} alt="logo" />
+          </a>
         </div>
       </div>
     </div>
