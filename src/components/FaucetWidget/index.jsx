@@ -137,7 +137,7 @@ export default function FaucetWidget() {
             </div>
             <ul className="inter-reg-14">
               <li>Limited to 5DC per day</li>
-              <li>Please consider donating unused DC to </li>
+              <li>Please consider donating unused DC to 0xAEFB77132Ac6bE83d2AC7108D6B5E2BA1F6c0fBA</li>
             </ul>
           </div>
         </div>
