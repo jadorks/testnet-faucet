@@ -42,3 +42,7 @@
   @apply mt-2 px-4 py-2;
   @apply rounded-lg bg-[#FFD8FB];
 }
+
+.disclaimer ul li {
+  overflow-wrap: break-word;
+}
